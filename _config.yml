@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Priyanka Dhar / PhD Researcher"
 title_separator          : "-"
 name                     : &name "Priyanka Dhar"
-description              : &description "personal description"
+description              : &description "Ph.D. Researcher at NTNU, Norway"
 url                      : https://priyankadhar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "priyankadhar/priyankadhar.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Priyanka Dhar"
-  avatar           : "profile.png"
+  avatar           : "priyanka_profile.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
